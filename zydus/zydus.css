@@ -1,0 +1,176 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.conteiner {
+    width: 1100px;
+    margin: 0 auto;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.jcs {
+    justify-content: space-between;
+}
+
+.col-50 {
+    width: 50%;
+}
+
+.home video {
+    width: 100%;
+
+}
+.home-position{
+    position: relative;
+}
+.po-abs{
+    position: absolute;
+    right: 20px;
+    z-index: 999;
+}
+.po-abs  a i{
+    color: #fff;
+    font-size: 40px;
+
+}
+
+.sec-2-text {
+    font-size: 50px;
+    padding: 100px 0 100px 0;
+    font-weight: 100;
+}
+
+.sec-2-text-2 {
+    text-align: justify;
+    font-size: 30px;
+    padding: 100px 0 100px 0;
+}
+
+.sec-3 video {
+    width: 100%;
+    /* height: 90vh; */
+    align-items: center;
+}
+
+.sec-4-text p {
+    text-align: justify;
+    font-size: 30px;
+    padding: 50px 5px 0 5px;
+    color: rgba(0, 0, 0, 0.616);
+}
+
+.sec-4-text h5 {
+    font-size: 35px;
+    color: rgba(0, 255, 255, 0.555);
+    font-weight: 3px;
+    padding: 40px 0;
+}
+
+.sec-5 img {
+    margin: 0 auto;
+    display: block;
+    padding: 100px 0;
+}
+
+.sec-6-text p {
+    font-family: 'Exo';
+    background-image: linear-gradient(to right, #189ea4, #b3559f);
+    font-size: 25px;
+    color: #fff;
+    padding: 20px 80px;
+    font-weight: 300;
+}
+
+.sec-6-img {
+    width: 100%;
+}
+
+.sec-6-bottom-text-1 {
+    color: #189ea4;
+    font-size: 30px;
+    padding: 20px 0;
+}
+
+.sec-6-bottom-text-2 {
+    color: #b3559f;
+    font-size: 30px;
+    padding: 20px 0;
+}
+
+.sec-6-bottom-text-1 h6 {
+    color: #189ea4;
+    font-size: 30px;
+    padding-bottom: 30px;
+}
+
+.sec-6-bottom-text-2 h6 {
+    color: #b3559f;
+    font-size: 30px;
+    padding-bottom: 30px;
+}
+
+.sec-7-video video {
+    width: 100%;
+    padding: 100px 0;
+}
+
+.sec-7-img img {
+    width: 100%;
+}
+
+.sec-7-text-1 h2 {
+    color: #189ea4;
+    font-size: 30px;
+    padding: 20px 0;
+
+
+}
+
+.sec-7-text-1 p {
+    font-size: 30px;
+    padding: 10px 20px 100px 0px;
+    color: rgba(0, 0, 0, 0.562);
+}
+
+.sec-7-text-2 h2 {
+    color: #b3559f;
+    font-size: 30px;
+    padding: 20px 0
+}
+
+.sec-7-text-2 p {
+    font-size: 30px;
+    padding: 10px 20px 100px 0px;
+    color: rgba(0, 0, 0, 0.562);
+}
+
+
+.sec-8-1 img {
+    width: 550px;
+}
+
+.sec-8-2 img {
+    width: 550px;
+}
+
+.sec-8-3 img {
+
+    width: 550px;
+}
+
+.sec-8-4 img {
+    width: 550px;
+}
+
+.sec-8text p {
+    padding: 20px 0;
+    font-size: 30px;
+    color: rgba(0, 0, 0, 0.582);
+}
